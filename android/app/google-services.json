@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "434748250856",
+    "project_id": "fraud-shield-ghana",
+    "storage_bucket": "fraud-shield-ghana.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434748250856:android:0b9ae5ce81680ae038c75d",
+        "android_client_info": {
+          "package_name": "com.example.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434748250856-c96u3uldilk0mb49d6ddvh7o5iiqi44c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvR32ZQ4RFjFP3b4aGWKzv-DGYLHXZ2l8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434748250856-c96u3uldilk0mb49d6ddvh7o5iiqi44c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "434748250856-c0l86g55b09695nudedmkqie7kotu2ne.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mobile"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434748250856:android:23231e0238f8dc9e38c75d",
+        "android_client_info": {
+          "package_name": "fraud.shield.ghana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434748250856-c96u3uldilk0mb49d6ddvh7o5iiqi44c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvR32ZQ4RFjFP3b4aGWKzv-DGYLHXZ2l8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434748250856-c96u3uldilk0mb49d6ddvh7o5iiqi44c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "434748250856-c0l86g55b09695nudedmkqie7kotu2ne.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
